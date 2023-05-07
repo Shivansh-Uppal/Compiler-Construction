@@ -1,7 +1,8 @@
+//14/03
 #include<iostream>
 using namespace std;
 
-void main()
+int main()
 {
     char fin[10][20],st[10][20],ft[20][20],fol[20][20];
     int a=0,e,i,t,b,c,n,k,l=0,j,s,m,p;
